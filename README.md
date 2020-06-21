@@ -8,6 +8,7 @@
 | <B>Pyplot</B> | Library for Visualization | 15/06/2020 | :----------: | <ul><li>- [ ] </li></ul>  | <ul><li>- [ ] </li></ul>  |
 | <B>PyDash</B> | Library for Visualization | 20/06/2020 | :----------: | <ul><li>- [ ] </li></ul>  | <ul><li>- [ ] </li></ul>  |
 | <B>GridSearchCV</B> | Tuning the hyper-parameters of an estimator | 06/06/2020 | :----------: | <ul><li>- [ ] </li></ul>  | <ul><li>- [ ] </li></ul>  |
+| <B>fast.ai</B> | Pytorch based Deep learning alogrithm. Complete course V3 | 26/06/2020 | :----------: | <ul><li>- [ ] </li></ul>  | <ul><li>- [ ] </li></ul>  |
 
 
 
